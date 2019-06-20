@@ -8,6 +8,6 @@ entries:
     digest: fd8a6c10c4010ac5d167b0db8fecb962779d818dbf4ceef4386b29a6c5fa17f9
     name: spa
     urls:
-    - spa-0.1.0.tgz
+    - https://raw.githubusercontent.com/kanatatara/myhelmrepo/master/spa-0.1.0.tgz
     version: 0.1.0
 generated: 2019-06-20T19:39:51.290991971+09:00
