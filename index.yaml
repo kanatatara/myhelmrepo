@@ -3,11 +3,29 @@ entries:
   spa:
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2019-06-20T19:39:51.291325549+09:00
+    created: 2019-06-20T20:10:19.189763819+09:00
     description: Service Provider Application A
-    digest: fd8a6c10c4010ac5d167b0db8fecb962779d818dbf4ceef4386b29a6c5fa17f9
+    digest: b088070c0941b3cdbf433c23b076d6a8056c46c5a7d5122f9cd2eb2352da6f58
     name: spa
     urls:
-    - https://raw.githubusercontent.com/kanatatara/myhelmrepo/master/spa-0.1.0.tgz
+    - spa-0.1.2.tgz
+    version: 0.1.2
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: 2019-06-20T20:10:19.18957649+09:00
+    description: Service Provider Application A
+    digest: c43f865d63f7def8f2d0a694cb7d9b3bdb8f4694ce03de0bc288894822af26d1
+    name: spa
+    urls:
+    - spa-0.1.1.tgz
+    version: 0.1.1
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: 2019-06-20T20:10:19.189385312+09:00
+    description: Service Provider Application A
+    digest: c37b0f8d45346b9bc3e25736be96cf5aec3494b27430293a76c5fba5fcc2b3ca
+    name: spa
+    urls:
+    - spa-0.1.0.tgz
     version: 0.1.0
-generated: 2019-06-20T19:39:51.290991971+09:00
+generated: 2019-06-20T20:10:19.188986341+09:00
