@@ -8,7 +8,7 @@ entries:
     digest: 33c07d5cebb928f9217a58df2230eaf75fa3fb7421c741137221729bfdea6208
     name: spa
     urls:
-    - spa-0.1.3.tgz
+    - https://raw.githubusercontent.com/kanatatara/myhelmrepo/master/spa-0.1.3.tgz
     version: 0.1.3
   - apiVersion: v1
     appVersion: "1.0"
@@ -17,7 +17,7 @@ entries:
     digest: b5b432374bffdb4c835c0c15c170e3a25667cfea8716951f4b623b935490389e
     name: spa
     urls:
-    - spa-0.1.2.tgz
+    - https://raw.githubusercontent.com/kanatatara/myhelmrepo/master/spa-0.1.2.tgz
     version: 0.1.2
   - apiVersion: v1
     appVersion: "1.0"
@@ -26,7 +26,7 @@ entries:
     digest: c43f865d63f7def8f2d0a694cb7d9b3bdb8f4694ce03de0bc288894822af26d1
     name: spa
     urls:
-    - spa-0.1.1.tgz
+    - https://raw.githubusercontent.com/kanatatara/myhelmrepo/master/spa-0.1.1.tgz
     version: 0.1.1
   - apiVersion: v1
     appVersion: "1.0"
@@ -35,6 +35,6 @@ entries:
     digest: c37b0f8d45346b9bc3e25736be96cf5aec3494b27430293a76c5fba5fcc2b3ca
     name: spa
     urls:
-    - spa-0.1.0.tgz
+    - https://raw.githubusercontent.com/kanatatara/myhelmrepo/master/spa-0.1.0.tgz
     version: 0.1.0
 generated: 2019-06-21T10:56:12.306825847+09:00
